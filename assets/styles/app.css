@@ -1,0 +1,102 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.banner {
+    height: 900px;
+    background: url('/HonkaStarRail-Banner.jpg') center center no-repeat;
+    padding: 20px;
+}
+
+.about-sign-in-dowload {
+    height: 140px;
+    width: 100%;
+    text-align: right;
+
+}
+
+.about,
+.sign-in,
+.dowload {
+    margin-top: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color: red;
+
+}
+
+.sign-in {
+    margin-right: 60px;
+    margin-left: 25px;
+    border-radius: 20px;
+    border: 1px solid green;
+}
+
+.logo {
+    background: url(/Honkai-Star-Rail.png) no-repeat;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    height: 250px;
+
+}
+
+.text {
+    text-align: center;
+    margin-top: 40px;
+    color: yellow;
+    font-size: 35px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.btn-start-now {
+    text-align: center;
+
+}
+
+button {
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 1px solid lime;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+
+
+.left,
+.right,
+.center {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+span {
+    display: block;
+    font-size: 30px;
+    color: lime;
+
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
